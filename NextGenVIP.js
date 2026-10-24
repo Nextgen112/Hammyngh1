@@ -90018,7 +90018,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                     else {
                         if(_0x10d3ff['_currentStoreItem'] = _0x5b4fcd, null == _0x5b4fcd) _0x57ed18['error']('STORE.Purchase\x20provided\x20a\x20null\x20storeItem'), _0x10d3ff['onCancelled']();
                         else {
-                            if(_0x37c2f5['get_SAVE']() && (_0x10d3ff['_busy'] || 0x0 == _0x5b4fcd['get_purchaseAnywhere']() && (_0x266cd7['hasPendingPurchase']() || !_0x266cd7['canSaveBase']()))) _0x204372[_0xd7094d(0x67b0)](_0x16fd41[_0xd7094d(a0_0x26e134._0x17135a)]('common__error'), _0x16fd41['getString']('store__base_currently_busy')), _0x10d3ff[_0x3ecee3(0x3df0)]();
+                            if(_0x37c2f5['get_SAVE']() && (_0x10d3ff['_busy'] || 0x0 == _0x5b4fcd['get_purchaseAnywhere']() && (_0x266cd7['hasPendingPurchase']()))) _0x204372[_0xd7094d(0x67b0)](_0x16fd41[_0xd7094d(a0_0x26e134._0x17135a)]('common__error'), _0x16fd41['getString']('store__base_currently_busy')), _0x10d3ff[_0x3ecee3(0x3df0)]();
                             else {
                                 if(0x1 == _0x3a3cc6[_0xd7094d(a0_0x26e134._0x53545f)]()) _0x5b4fcd = _0x3a3cc6[_0x3ecee3(a0_0x26e134._0x26a71e)]() ? _0x16fd41[_0x3ecee3(0xcac)](_0x3ecee3(a0_0x26e134._0x43630f)) : _0x16fd41['getString']('store__base_removed_from_worldmap'), _0x204372['DisplayMessage'](_0x16fd41['getString']('common__error'), _0x5b4fcd), _0x10d3ff['onCancelled']();
                                 else {
