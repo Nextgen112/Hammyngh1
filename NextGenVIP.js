@@ -187116,9 +187116,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                 }, _0x1ac190['startMultiplePurchases'] = function(_0x475a25, _0x271fc5) {
                     var _0x1faa92 = _0x4b7dba,
                         _0x26b1af = _0x4b7dba;
-                    null == _0x271fc5 && (_0x271fc5 = !0x1);
-                    if(_0x1ac190['_locked']) _0x204372['DisplayMessage'](_0x16fd41['getString']('common_uppercase__error'), _0x16fd41['getString'](_0x1faa92(a0_0x2d5d4f._0x29a6cc)));
-                    else {
+                    null == _0x271fc5 && (_0x271fc5 = !0x1);{
                         null == _0x475a25 && (_0x475a25 = []);
                         var _0x4f2e22 = _0x271fc5 ? _0x1ac190['_queuedDebugPurchases'] : _0x1ac190['_queuedPurchases'];
                         0x0 < _0x4f2e22['length'] && (_0x475a25 = _0x475a25['concat'](_0x4f2e22), _0x271fc5 ? _0x1ac190['_queuedDebugPurchases'] = [] : _0x1ac190['_queuedPurchases'] = []), 0x0 < _0x475a25['length'] && (_0x4f2e22 = _0x523965['instance'][_0x26b1af(0x3a86)](), _0x1ac190['lock'](_0x4f2e22), _0x1ac190[_0x1faa92(a0_0x2d5d4f._0x227ab8)]['h'][_0x4f2e22] = !0x0, _0x523965[_0x26b1af(0x2d6)]['startMultiplePurchases'](_0x475a25, _0x271fc5));
@@ -252957,10 +252955,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         for(_0x1b1021 = this['_platoons']; _0x51db7f < _0x1b1021[_0x57ef81(0x6263)];) _0x58ddc0 = _0x1b1021[_0x51db7f], ++_0x51db7f, _0x58ddc0 = _0x13413e['GetPlatoonRepairCost'](_0x58ddc0), this['_totalCost']['add'](_0x58ddc0), this[_0x1c6008(0x2e5e)] += Math[_0x1c6008(a0_0x270167._0xe55b36)](_0x58ddc0['get_creditsNumber']());
                         0x0 == this['_totalGoldCost'] ? this[_0x57ef81(0x3a33)]() : this[_0x57ef81(a0_0x270167._0x120064)]();
                     },
-                    'displayFreeRepairPopup': function() {
-                        var _0xd5ffe8 = _0xfb67eb,
-                            _0x5d78d3 = _0xfb67eb;
-                        _0x24f852['Show'](new _0x481864(_0x16fd41[_0xd5ffe8(a0_0x74a74a._0x45edb4)]('popup_button__finish_now'), _0x16fd41['getString'](_0xd5ffe8(0x3ea3)), !0x0, _0x16fd41['getString']('popup_button__finish_now'), _0x4192f4(this, this[_0x5d78d3(0x42a6)])));
+                    'displayFreeRepairPopup': function() {return this.repairInstantConfirmation()
                     },
                     'displayInstantRepairPopup': function() {
                         var _0x369020 = _0xfb67eb,
