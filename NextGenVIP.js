@@ -119836,7 +119836,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         }
                         return !0x0;
                     },
-                    'get_canMove': function() {return!0;
+                    'get_canMove': function() {
                         var _0x312551 = _0xfb67eb;
                         return _0x54a9ae['get_IsCompleted']() && _0x3a3cc6['IsPlayerOwned']() && !_0x3a3cc6['IsSyncBattleDefender']() && (_0x27f951['_showBottom'] || _0x40896c['get_instance']()['get_isOn']()) && (this[_0x312551(a0_0x16d5a3._0x116473)]() >= this['get_maxHealth']() || this['_blockRepairs']) && 0x0 == this['RemainingDozerTime']() && 0x3 != this['get_classType']() ? !_0x11516e['isDepositType'](this['get_type']()) : !0x1;
                     },
@@ -119845,12 +119845,12 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             _0x113dad = _0xfb67eb;
                         this[_0xa3bfab(a0_0x4872d3._0x1fd824)](), _0x46ab3a[_0xa3bfab(a0_0x4872d3._0x5d643a)]['setTo'](this['get_x']() + _0x59b796, this['get_y']() + _0x175e73), _0x46ab3a['FootprintBlocked'](this['get_footprint'](), _0x46ab3a[_0xa3bfab(0x2249)], this[_0xa3bfab(a0_0x4872d3._0x2d5f5d)](), this['get_type'](), this) || (this['setPosition'](_0x46ab3a['tempPoint']['x'], _0x46ab3a['tempPoint']['y']), this['ShowFootprint'](this[_0x113dad(a0_0x4872d3._0x530c92)])), this['addFootprintToGrid']();
                     },
-                    'StartMove': function() {
+                    'StartMove': function() {return true;
                         var _0x2b20ca = _0xfb67eb,
                             _0x33759b = _0xfb67eb;
                         0x0 != _0x54a9ae['get_IsCompleted']() && (_0x266cd7['_blockSaveFlag']['assign']('BldgFoundation', !0x0), _0x266cd7[_0x2b20ca(0x24d8)](this, !0x1), this['removeFootprintFromGrid'](), this['set_isMoving'](!0x0), _0x30017f['ShowEdge'](), this['_mc']['addEventListener']('enterFrame', _0x4192f4(this, this['addMoveListeners'])), _0x266cd7['ShowFootprints'](), 0x1 == _0x30017f[_0x2b20ca(0x35b0)]() && _0x30017f['get_multiBuildingMoveEnabled']() ? _0x30017f['StartSelectedBuildingsMove'](this) : this[_0x2b20ca(a0_0x4be5c3._0x3f9df8)][_0x2b20ca(a0_0x4be5c3._0x21ce2e)](this['get_x'](), this['get_y']()), this['_oldPosition']['setTo'](this['get_x'](), this['get_y']()), this['_multiMoveOffset'][_0x33759b(0x22bf)](0x0, 0x0));
                     },
-                    'addToMultiMove': function(_0xa69f74) {return true;
+                    'addToMultiMove': function(_0xa69f74) {
                         var _0x1cac42 = _0x4b7dba,
                             _0x3ee5db = _0x4b7dba;
                         this['removeFootprintFromGrid'](), this[_0x1cac42(a0_0x237732._0x3975c7)](!0x0), this[_0x3ee5db(a0_0x237732._0x50b404)]['addEventListener']('enterFrame', _0x4192f4(this, this['addMoveListeners'])), this['_oldPosition'][_0x3ee5db(0x22bf)](this['get_x'](), this['get_y']()), this['_multiMoveReferenceBuilding'] = _0xa69f74, this['_multiMoveOffset']['setTo'](this['get_x']() - _0xa69f74['get_x'](), this['get_y']() - _0xa69f74[_0x1cac42(0xa42)]());
@@ -136892,7 +136892,9 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                 }, _0x30017f[_0x4b7dba(0x4eae)] = function() {
                     var _0x299797 = _0x4b7dba;
                     return _0x30017f['_ctrlKeyDown'] && _0x266cd7['get_buildMode']() ? !0x1 : !_0x40896c[_0x299797(0x6bb6)]()['get_isOn']();
-                }, _0x30017f['get_MultipleBuildingsSelected'] = function() {return true;
+                }, _0x30017f['get_MultipleBuildingsSelected'] = function() {
+                    var _0x3f3efa = _0x4b7dba;
+                    return 0x0 < _0x30017f['_buildingSelector'][_0x3f3efa(0x4462)]();
                 }, _0x30017f['IsBuildingSelected'] = function(_0x384a17) {
                     return _0x30017f['_buildingSelector']['isBuildingSelected'](_0x384a17);
                 }, _0x30017f['AddOrRemoveBuildingFromMultiSelection'] = function(_0x2f6725) {
