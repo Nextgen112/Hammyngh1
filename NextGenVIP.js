@@ -119845,7 +119845,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             _0x113dad = _0xfb67eb;
                         this[_0xa3bfab(a0_0x4872d3._0x1fd824)](), _0x46ab3a[_0xa3bfab(a0_0x4872d3._0x5d643a)]['setTo'](this['get_x']() + _0x59b796, this['get_y']() + _0x175e73), _0x46ab3a['FootprintBlocked'](this['get_footprint'](), _0x46ab3a[_0xa3bfab(0x2249)], this[_0xa3bfab(a0_0x4872d3._0x2d5f5d)](), this['get_type'](), this) || (this['setPosition'](_0x46ab3a['tempPoint']['x'], _0x46ab3a['tempPoint']['y']), this['ShowFootprint'](this[_0x113dad(a0_0x4872d3._0x530c92)])), this['addFootprintToGrid']();
                     },
-                    'StartMove': function() {return true;
+                    'StartMove': function() {
                         var _0x2b20ca = _0xfb67eb,
                             _0x33759b = _0xfb67eb;
                         0x0 != _0x54a9ae['get_IsCompleted']() && (_0x266cd7['_blockSaveFlag']['assign']('BldgFoundation', !0x0), _0x266cd7[_0x2b20ca(0x24d8)](this, !0x1), this['removeFootprintFromGrid'](), this['set_isMoving'](!0x0), _0x30017f['ShowEdge'](), this['_mc']['addEventListener']('enterFrame', _0x4192f4(this, this['addMoveListeners'])), _0x266cd7['ShowFootprints'](), 0x1 == _0x30017f[_0x2b20ca(0x35b0)]() && _0x30017f['get_multiBuildingMoveEnabled']() ? _0x30017f['StartSelectedBuildingsMove'](this) : this[_0x2b20ca(a0_0x4be5c3._0x3f9df8)][_0x2b20ca(a0_0x4be5c3._0x21ce2e)](this['get_x'](), this['get_y']()), this['_oldPosition']['setTo'](this['get_x'](), this['get_y']()), this['_multiMoveOffset'][_0x33759b(0x22bf)](0x0, 0x0));
