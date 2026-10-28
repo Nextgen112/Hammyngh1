@@ -120545,7 +120545,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                                 }
                             }
                             _0x24f852['Show'](new _0x4c3cee(_0x3de5e6, _0xcd0384, _0x16fd41[_0x5747c0(0xcac)]('common_button__finish'), _0x370712, _0x4192f4(this, this['purchaseRepairBuilding'])));
-                        } else 0x0 < this['RemainingDozerTime']() && _0x10d3ff['QuickSpeedup'](this);
+                        } else 0x0 > this['RemainingDozerTime']() && _0x10d3ff['QuickSpeedup'](this);
                     },
                     'purchaseRepairBuilding': function() {
                         var _0x331820 = _0xfb67eb,
