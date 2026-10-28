@@ -119836,7 +119836,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         }
                         return !0x0;
                     },
-                    'get_canMove': function() {
+                    'get_canMove': function() {return!0;
                         var _0x312551 = _0xfb67eb;
                         return _0x54a9ae['get_IsCompleted']() && _0x3a3cc6['IsPlayerOwned']() && !_0x3a3cc6['IsSyncBattleDefender']() && (_0x27f951['_showBottom'] || _0x40896c['get_instance']()['get_isOn']()) && (this[_0x312551(a0_0x16d5a3._0x116473)]() >= this['get_maxHealth']() || this['_blockRepairs']) && 0x0 == this['RemainingDozerTime']() && 0x3 != this['get_classType']() ? !_0x11516e['isDepositType'](this['get_type']()) : !0x1;
                     },
