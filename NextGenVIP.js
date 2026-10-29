@@ -89602,7 +89602,7 @@ $jscomp[a0_0x534f50(0x55ca)] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME
                     else {
                         if(_0x50f725['_currentStoreItem'] = _0x3cc222, null == _0x3cc222) _0x156793['error']('STORE.Purchase\x20provided\x20a\x20null\x20storeItem'), _0x50f725['onCancelled']();
                         else {
-                            if(_0x31c7dc['get_SAVE']() && (_0x17eb63['hasPendingPurchase']()))) _0x413fed['DisplayMessage'](_0x5d43de['getString']('common__error'), _0x5d43de['getString']('store__base_currently_busy')), _0x50f725['onCancelled']();
+                            if(_0x31c7dc['get_SAVE']() && (_0x50f725['_busy'] || 0x0 == _0x3cc222['get_purchaseAnywhere']() && (_0x17eb63['hasPendingPurchase']()))) _0x413fed['DisplayMessage'](_0x5d43de['getString']('common__error'), _0x5d43de['getString']('store__base_currently_busy')), _0x50f725['onCancelled']();
                             else {
                                 if(0x1 == _0x2fd659[_0x6d0d45(a0_0x514f79._0x34e2df)]()) _0x3cc222 = _0x2fd659['IsDeposit']() ? _0x5d43de['getString']('store__deposit_removed_from_worldmap') : _0x5d43de['getString'](_0x6d0d45(a0_0x514f79._0x32f059)), _0x413fed[_0x40af12(0x3a85)](_0x5d43de['getString']('common__error'), _0x3cc222), _0x50f725[_0x6d0d45(a0_0x514f79._0x1daba6)]();
                                 else {
