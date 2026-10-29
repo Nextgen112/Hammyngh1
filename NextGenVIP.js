@@ -122728,7 +122728,7 @@ $jscomp[a0_0x534f50(0x55ca)] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME
                 _0x55571c[_0x4d8c09(0x39d7)] = _0x14494b, _0x14494b['__name__'] = 'com.cc.build.BldgDefenseLab', _0x14494b['__super__'] = _0x1ebdd2, _0x14494b['prototype'] = _0x46a500(_0x1ebdd2['prototype'], {
                     '_frameNumber': null,
                     '_ongoingResearches': null,
-                    'canResearch': function(_0x30722a) {
+                    'canResearch': function(_0x30722a) {return true;
                         var _0x56540b = _0x4d8c09,
                             _0x349520 = _0x4d8c09;
                         if(null == _0x30722a || '' == _0x30722a) return !0x1;
