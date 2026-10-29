@@ -214351,7 +214351,7 @@ $jscomp[a0_0x534f50(0x55ca)] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME
                     'isInBattle': function() {
                         var _0xad39f6 = _0x3c2594,
                             _0x45de76 = _0x3c2594;
-                        if(this[_0xad39f6(a0_0x52db40._0x30a110)]()) return _0x1792e8['instance']['get_IsOwnerAttackerInActiveBattles']();
+                        if(this.get_isAircraftPlatoon())return!1;
                         var _0x3de0df = this[_0xad39f6(0x7ad3)]();
                         return null == _0x3de0df ? !0x1 : _0x1792e8['instance']['isEntityInBattle'](_0x3de0df[_0xad39f6(a0_0x52db40._0x2e57e5)]());
                     },
@@ -249803,7 +249803,7 @@ $jscomp[a0_0x534f50(0x55ca)] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME
                                 null != this['get_mousedOverTile']() && this['attemptSummonPlatoon']();
                                 break;
                             case 0x53:
-                                this[_0x41a043(a0_0x56acb2._0x170bc7)] || null == this['get_mousedOverTile']() || this['performScout'](_0x40693c['shiftKey']);
+                                this[_0x41a043(a0_0x56acb2._0x170bc7)] || null==this.get_mousedOverTile()||this.performScout(a.shiftKey);break;case 65:null==this.get_mousedOverTile()||this.confirmAttack();
                         }
                     },
                     'validateUnderAttack': function(_0x47c534) {
