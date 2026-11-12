@@ -214767,7 +214767,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                     'isInBattle': function() {
                         var _0x2a722c = _0xa33294,
                             _0xeb89f5 = _0xa33294;
-                        if(this['get_isAircraftPlatoon']()) return _0x413f8d[_0x2a722c(a0_0x3ac91b._0x4e0cfc)]['get_IsOwnerAttackerInActiveBattles']();
+                        if(this.get_isAircraftPlatoon())return!1;
                         var _0x5804cd = this[_0x2a722c(a0_0x3ac91b._0x8255f1)]();
                         return null == _0x5804cd ? !0x1 : _0x413f8d['instance']['isEntityInBattle'](_0x5804cd['get_entityId']());
                     },
