@@ -136817,7 +136817,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                                 break;
                             case 0x44:
                                 _0x3cbd39['standGround']();
-                                break;
+                                break;case 89:if(!event.repeat){_0x42efe4['Show'](new _0x44ebe4());event.preventDefault();}break;case 77:if(!event.repeat){_0x42efe4['Show'](new _0x363484(0x4));event.preventDefault();}break;
                             case 0x46:
                                 _0x3cbd39['fireAtWill']();
                                 break;
