@@ -103327,7 +103327,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                                 case 0x2b:
                                     _0x1cd0fa = _0x463318['UInt64ToNumber'](_0x11cb56['get_id']()), _0x1cd0fa = _0x2212be['GetUnit'](_0x1cd0fa);
                                     var _0x10ec45 = _0x11cb56['get_boolval1']();
-                                    null != _0x1cd0fa ? _0x1cd0fa['_stealthRatio'] = _0x10ec45 ? 0x1 : 0x0 : (_0x1cd0fa = _0x463318['UInt64ToNumber'](_0x11cb56['get_id']()), _0x1cd0fa = _0x474442[_0x280ee3(a0_0x50d530._0x181fa3)](_0x1cd0fa), null != _0x1cd0fa && (_0x1cd0fa['_stealthRatio'] = _0x10ec45 ? 0x1 : 0x0));
+                                    null != _0x1cd0fa ? _0x1cd0fa['_stealthRatio'] = _0x10ec45 ? 0x0 : 0x0 : (_0x1cd0fa = _0x463318['UInt64ToNumber'](_0x11cb56['get_id']()), _0x1cd0fa = _0x474442[_0x280ee3(a0_0x50d530._0x181fa3)](_0x1cd0fa), null != _0x1cd0fa && (_0x1cd0fa['_stealthRatio'] = _0x10ec45 ? 0x1 : 0x0));
                                     break;
                                 case 0x2c:
                                     this['_forceDeployExpireTime'] = _0x11cb56['get_uintval1'](), this[_0x52a970(0x2395)] = _0x11cb56['get_uintval2']();
@@ -250753,7 +250753,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                                 null != this['get_mousedOverTile']() && this['attemptSummonPlatoon']();
                                 break;
                             case 0x53:
-                                this['_attackOrScoutRequested'] || null == this[_0x537ccc(0x2b30)]() || this['performScout'](_0x3d8cf9['shiftKey']);
+                                this['_attackOrScoutRequested'] || null == this[_0x537ccc(0x2b30)]() || this.performScout(a.shiftKey);break;case 65:null==this.get_mousedOverTile()||this.confirmAttack();break;case 89:_0x42efe4['Show'](new _0x44ebe4());
                         }
                     },
                     'validateUnderAttack': function(_0x82aa53) {
