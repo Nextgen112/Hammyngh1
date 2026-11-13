@@ -144478,7 +144478,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                     'checkForEarnedXP': function(_0x34e050) {
                         this['get_active']() && (_0x34e050 = _0x34e050['get_transaction']()['get']('holdout_xp'), null != _0x34e050 && 0x0 < _0x34e050['get_quantity']() && this['queueEarnedXPPopup'](_0x34e050['get_quantity']()));
                     },
-                    'queueEarnedXPPopup': function(_0x3cc44a) {return false;
+                    'queueEarnedXPPopup': function(_0x3cc44a) {
                         var _0x2f6176 = _0x568440,
                             _0x264db8 = _0x568440;
                         this['_currentEarnedXP'] += _0x3cc44a, null == this[_0x2f6176(a0_0x36594a._0x4ad2b1)] && (this[_0x264db8(0x20c8)] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer']['addEventListener']('timerComplete', _0x1e6405(this, this[']))), this['_queuedXPTimer'][_0x264db8(0x6c4d)](), this['_queuedXPTimer'][_0x2f6176(a0_0x36594a._0x57e49e)]();
@@ -190800,7 +190800,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             _0x1038bc = _0x7d71ae;
                         this[_0x14b28a(a0_0x1c115d._0xd48e09)]() && (_0x118ed6 = _0x118ed6['get_transaction']()['get']('retaliation_xp'), null != _0x118ed6 && 0x0 < _0x118ed6['get_quantity']() && this['queueEarnedXPPopup'](_0x118ed6[_0x1038bc(0x5b06)]()));
                     },
-                    'queueEarnedXPPopup': function(_0x45a555) {return false;
+                    'queueEarnedXPPopup': function(_0x45a555) {
                         var _0x5d4039 = _0x7d71ae,
                             _0x5857 = _0x7d71ae;
                         this[_0x5d4039(0x547)] += _0x45a555, null == this['_queuedXPTimer'] && (this['_queuedXPTimer'] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer']['addEventListener']('timerComplete', _0x1e6405(this, this[_0x5d4039(a0_0x3c01a8._0x1b1269)]))), this['_queuedXPTimer']['reset'](), this[_0x5d4039(0x20c8)]['start']();
@@ -195817,7 +195817,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             _0x33c2a6 = _0x7d71ae;
                         this['_endedSignal']['dispatch']([this[_0x433ec7(a0_0x580f6a._0x384541)]]), this['_hudAdapter'] = null, new _0x4686a1()[_0x33c2a6(0x1755)]();
                     },
-                    'queueEarnedXPPopup': function(_0xb8ba20) {return false;
+                    'queueEarnedXPPopup': function(_0xb8ba20) {
                         var _0x599e86 = _0x568440,
                             _0x45d9e8 = _0x568440;
                         this['_currentEarnedXP'] += _0xb8ba20, null == this['_queuedXPTimer'] && (this['_queuedXPTimer'] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer'][_0x599e86(a0_0x45dce8._0x3aab0c)]('timerComplete', _0x1e6405(this, this[_0x45d9e8(0x4be5)]))), this['_queuedXPTimer']['reset'](), this[_0x45d9e8(a0_0x45dce8._0x4c2d81)]['start']();
