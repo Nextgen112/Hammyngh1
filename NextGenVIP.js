@@ -84441,7 +84441,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                 }, _0x5f33c4['ParseSave'] = function(_0x167943, _0x236959) {
                     var _0x494ad4 = _0x7d71ae,
                         _0x10a685 = _0x7d71ae;
-                    null == _0x236959 && (_0x236959 = !0x1), _0x5344a1['setServerTimestampSeconds'](_0x167943['currenttime']), _0x5344a1['syncLocalTimestampToServer'](), _0x236959 || (_0x4c9221['get_Instance']()['setSaveToken']('baseSave', _0x167943[_0x494ad4(a0_0x298806._0x1a0fd6)]), _0x5f33c4[_0x494ad4(a0_0x298806._0x13c3c7)] && (_0x5f33c4['_savingPurchase'] = !0x1, _0x5f33c4['_pendingPurchase'] = [], 0x0 != _0x5f33c4[_0x494ad4(0x6fad)]['length'] && _0x1b4cbe['LogMonocle']('BASE::ParseSave\x20Error\x20restoring\x20_pendingPurchase.\x20Length\x20expected\x20to\x20be\x200', 0x1), _0x3aff72['Message'](0x15)), null != _0x5f33c4['_savedResourceDeltas'] && (_0x3f66f1['get_Resources']()['AddDelta'](0x1, -_0x5f33c4['_savedResourceDeltas']['get_metal']()), _0x3f66f1['get_Resources']()['AddDelta'](0x2, -_0x5f33c4['_savedResourceDeltas']['get_oil']()), _0x5f33c4['_savedResourceDeltas'] = null)), _0x5e2a67['IsPlayerOwned']() && _0x5f33c4['set_Credits'](_0x5eaecc['ensureInt'](_0x167943.credits==0?101:_0x167943.credits)), null != _0x167943['resources'] && (null != _0x167943['resources']['r1'] && _0x3f66f1[_0x10a685(0x5f1)]()[_0x494ad4(a0_0x298806._0x1e7555)](0x1, _0x167943['resources']['r1'], !0x1), null != _0x167943['resources']['r2'] && _0x3f66f1[_0x494ad4(a0_0x298806._0x5094e0)]()['SetRes'](0x2, _0x167943['resources']['r2'], !0x1)), _0x5e2a67['IsBase']() && _0x3f66f1['get_Instance']()['ClearDepositDeltas'](), _0x5f33c4['_isBookmarked'] = _0x5eaecc['ensureInt'](_0x167943['bookmarked']), _0x5f33c4['_installsGenerated'] = _0x5eaecc['ensureInt'](_0x167943['installsgenerated']), null != _0x167943['updates'] && 0x0 < _0x167943['updates']['length'] && _0x5c6942['Process'](_0x167943['updates']), _0x5f33c4['_signalBaseSaved'][_0x494ad4(a0_0x298806._0x5680cb)]([_0x167943]);
+                    null == _0x236959 && (_0x236959 = !0x1), _0x5344a1['setServerTimestampSeconds'](_0x167943['currenttime']), _0x5344a1['syncLocalTimestampToServer'](), _0x236959 || (_0x4c9221['get_Instance']()['setSaveToken']('baseSave', _0x167943[_0x494ad4(a0_0x298806._0x1a0fd6)]), _0x5f33c4[_0x494ad4(a0_0x298806._0x13c3c7)] && (_0x5f33c4['_savingPurchase'] = !0x1, _0x5f33c4['_pendingPurchase'] = [], 0x0 != _0x5f33c4[_0x494ad4(0x6fad)]['length'] && _0x1b4cbe['LogMonocle']('BASE::ParseSave\x20Error\x20restoring\x20_pendingPurchase.\x20Length\x20expected\x20to\x20be\x200', 0x1), _0x3aff72['Message'](0x15)), null != _0x5f33c4['_savedResourceDeltas'] && (_0x3f66f1['get_Resources']()['AddDelta'](0x1, -_0x5f33c4['_savedResourceDeltas']['get_metal']()), _0x3f66f1['get_Resources']()['AddDelta'](0x2, -_0x5f33c4['_savedResourceDeltas']['get_oil']()), _0x5f33c4['_savedResourceDeltas'] = null)), _0x5e2a67['IsPlayerOwned']() && _0x5f33c4['set_Credits'](_0x5eaecc['ensureInt'](_0x167943.credits==0?100:_0x167943.credits)), null != _0x167943['resources'] && (null != _0x167943['resources']['r1'] && _0x3f66f1[_0x10a685(0x5f1)]()[_0x494ad4(a0_0x298806._0x1e7555)](0x1, _0x167943['resources']['r1'], !0x1), null != _0x167943['resources']['r2'] && _0x3f66f1[_0x494ad4(a0_0x298806._0x5094e0)]()['SetRes'](0x2, _0x167943['resources']['r2'], !0x1)), _0x5e2a67['IsBase']() && _0x3f66f1['get_Instance']()['ClearDepositDeltas'](), _0x5f33c4['_isBookmarked'] = _0x5eaecc['ensureInt'](_0x167943['bookmarked']), _0x5f33c4['_installsGenerated'] = _0x5eaecc['ensureInt'](_0x167943['installsgenerated']), null != _0x167943['updates'] && 0x0 < _0x167943['updates']['length'] && _0x5c6942['Process'](_0x167943['updates']), _0x5f33c4['_signalBaseSaved'][_0x494ad4(a0_0x298806._0x5680cb)]([_0x167943]);
                 }, _0x5f33c4['ownsBuildingOfType'] = function(_0x4bfbf8) {
                     var _0x218e20 = _0x7d71ae,
                         _0x2e8e77 = _0x7d71ae;
@@ -122750,7 +122750,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                 _0x364eec['com.cc.build.BldgDefenseLab'] = _0x22034a, _0x22034a['__name__'] = 'com.cc.build.BldgDefenseLab', _0x22034a['__super__'] = _0x4a75d0, _0x22034a[_0x568440(0x5233)] = _0x33af86(_0x4a75d0['prototype'], {
                     '_frameNumber': null,
                     '_ongoingResearches': null,
-                    'canResearch': function(_0x4473a3) {
+                    'canResearch': function(_0x4473a3) {return true;
                         var _0x1a7db9 = _0x568440,
                             _0x51f1e2 = _0x568440;
                         if(null == _0x4473a3 || '' == _0x4473a3) return !0x1;
@@ -144478,12 +144478,12 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                     'checkForEarnedXP': function(_0x34e050) {
                         this['get_active']() && (_0x34e050 = _0x34e050['get_transaction']()['get']('holdout_xp'), null != _0x34e050 && 0x0 < _0x34e050['get_quantity']() && this['queueEarnedXPPopup'](_0x34e050['get_quantity']()));
                     },
-                    'queueEarnedXPPopup': function(_0x3cc44a) {
+                    'queueEarnedXPPopup': function(_0x3cc44a) {return false;
                         var _0x2f6176 = _0x568440,
                             _0x264db8 = _0x568440;
-                        this['_currentEarnedXP'] += _0x3cc44a, null == this[_0x2f6176(a0_0x36594a._0x4ad2b1)] && (this[_0x264db8(0x20c8)] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer']['addEventListener']('timerComplete', _0x1e6405(this, this['showEarnedXPPopup']))), this['_queuedXPTimer'][_0x264db8(0x6c4d)](), this['_queuedXPTimer'][_0x2f6176(a0_0x36594a._0x57e49e)]();
+                        this['_currentEarnedXP'] += _0x3cc44a, null == this[_0x2f6176(a0_0x36594a._0x4ad2b1)] && (this[_0x264db8(0x20c8)] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer']['addEventListener']('timerComplete', _0x1e6405(this, this[']))), this['_queuedXPTimer'][_0x264db8(0x6c4d)](), this['_queuedXPTimer'][_0x2f6176(a0_0x36594a._0x57e49e)]();
                     },
-                    'showEarnedXPPopup': function(_0x48ebd7) {
+                    'showEarnedXPPopup': function(_0x48ebd7) {return false;
                         var _0x46ca3f = _0x568440,
                             _0x446d27 = _0x568440;
                         _0x48ebd7 = _0x14924a[_0x46ca3f(a0_0x4562c2._0x550d14)](_0x37fedf[_0x446d27(a0_0x4562c2._0xdfde55)]()[_0x46ca3f(0x4aeb)]('XPEarnedPopup'), _0x127440), _0x48ebd7['init'](this['_currentEarnedXP']), _0x3aff72[_0x446d27(0x383f)](_0x48ebd7, !0x0), this[_0x446d27(a0_0x4562c2._0x518c2d)]['removeEventListener'](_0x46ca3f(a0_0x4562c2._0x5b5826), _0x1e6405(this, this['showEarnedXPPopup'])), this['_queuedXPTimer'] = null, this['_currentEarnedXP'] = 0x0;
@@ -190800,12 +190800,12 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             _0x1038bc = _0x7d71ae;
                         this[_0x14b28a(a0_0x1c115d._0xd48e09)]() && (_0x118ed6 = _0x118ed6['get_transaction']()['get']('retaliation_xp'), null != _0x118ed6 && 0x0 < _0x118ed6['get_quantity']() && this['queueEarnedXPPopup'](_0x118ed6[_0x1038bc(0x5b06)]()));
                     },
-                    'queueEarnedXPPopup': function(_0x45a555) {
+                    'queueEarnedXPPopup': function(_0x45a555) {return false;
                         var _0x5d4039 = _0x7d71ae,
                             _0x5857 = _0x7d71ae;
                         this[_0x5d4039(0x547)] += _0x45a555, null == this['_queuedXPTimer'] && (this['_queuedXPTimer'] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer']['addEventListener']('timerComplete', _0x1e6405(this, this[_0x5d4039(a0_0x3c01a8._0x1b1269)]))), this['_queuedXPTimer']['reset'](), this[_0x5d4039(0x20c8)]['start']();
                     },
-                    'showEarnedXPPopup': function(_0x5d826e) {
+                    'showEarnedXPPopup': function(_0x5d826e) {return false;
                         var _0x57aa1a = _0x7d71ae,
                             _0xb8c6c4 = _0x7d71ae;
                         _0x5d826e = _0x14924a[_0x57aa1a(0x4af5)](_0x37fedf['get_instance']()['getUIComponent']('XPEarnedPopup'), _0x127440), _0x5d826e['init'](this[_0x57aa1a(a0_0x83f816._0x55952a)]), _0x3aff72['Show'](_0x5d826e, !0x0), this['_queuedXPTimer'][_0x57aa1a(0x4695)]('timerComplete', _0x1e6405(this, this['showEarnedXPPopup'])), this[_0xb8c6c4(0x20c8)] = null, this['_currentEarnedXP'] = 0x0;
@@ -195817,12 +195817,12 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             _0x33c2a6 = _0x7d71ae;
                         this['_endedSignal']['dispatch']([this[_0x433ec7(a0_0x580f6a._0x384541)]]), this['_hudAdapter'] = null, new _0x4686a1()[_0x33c2a6(0x1755)]();
                     },
-                    'queueEarnedXPPopup': function(_0xb8ba20) {
+                    'queueEarnedXPPopup': function(_0xb8ba20) {return false;
                         var _0x599e86 = _0x568440,
                             _0x45d9e8 = _0x568440;
                         this['_currentEarnedXP'] += _0xb8ba20, null == this['_queuedXPTimer'] && (this['_queuedXPTimer'] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer'][_0x599e86(a0_0x45dce8._0x3aab0c)]('timerComplete', _0x1e6405(this, this[_0x45d9e8(0x4be5)]))), this['_queuedXPTimer']['reset'](), this[_0x45d9e8(a0_0x45dce8._0x4c2d81)]['start']();
                     },
-                    'showEarnedXPPopup': function(_0x370f3b) {
+                    'showEarnedXPPopup': function(_0x370f3b) {return false;
                         var _0x201f76 = _0x568440,
                             _0x20336b = _0x568440;
                         _0x370f3b = _0x14924a['__cast'](_0x37fedf[_0x201f76(a0_0x47753f._0x24435e)]()[_0x201f76(0x4aeb)]('XPEarnedPopup'), _0x127440), _0x370f3b['init'](this['_currentEarnedXP']), _0x3aff72['Show'](_0x370f3b, !0x0), this['_queuedXPTimer']['removeEventListener']('timerComplete', _0x1e6405(this, this['showEarnedXPPopup'])), this['_queuedXPTimer'] = null, this['_currentEarnedXP'] = 0x0;
