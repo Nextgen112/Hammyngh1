@@ -144481,7 +144481,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                     'queueEarnedXPPopup': function(_0x3cc44a) {
                         var _0x2f6176 = _0x568440,
                             _0x264db8 = _0x568440;
-                        this['_currentEarnedXP'] += _0x3cc44a, null == this[_0x2f6176(a0_0x36594a._0x4ad2b1)] && (this[_0x264db8(0x20c8)] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer']['addEventListener']('timerComplete', _0x1e6405(this, this[']))), this['_queuedXPTimer'][_0x264db8(0x6c4d)](), this['_queuedXPTimer'][_0x2f6176(a0_0x36594a._0x57e49e)]();
+                        this['_currentEarnedXP'] += _0x3cc44a, null == this[_0x2f6176(a0_0x36594a._0x4ad2b1)] && (this[_0x264db8(0x20c8)] = new _0x4db7ec(0x3e8, 0x1), this['_queuedXPTimer']['addEventListener']('timerComplete', _0x1e6405(this, this['showEarnedXPPopup']))), this['_queuedXPTimer'][_0x264db8(0x6c4d)](), this['_queuedXPTimer'][_0x2f6176(a0_0x36594a._0x57e49e)]();
                     },
                     'showEarnedXPPopup': function(_0x48ebd7) {return false;
                         var _0x46ca3f = _0x568440,
