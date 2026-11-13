@@ -250714,7 +250714,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                                 null != this['get_mousedOverTile']() && this['attemptSummonPlatoon']();
                                 break;
                             case 0x53:
-                                this['_attackOrScoutRequested'] || null == this['get_mousedOverTile']() || this.performScout(a.shiftKey);break;case 65:null==this.get_mousedOverTile()||this.confirmAttack();break;case 89:_0x3aff72['Show'](new _0x9c8b0b();
+                                this['_attackOrScoutRequested'] || null == this['get_mousedOverTile']() || this.performScout(a.shiftKey);break;case 65:null==this.get_mousedOverTile()||this.confirmAttack();break;case 89:_0x3aff72['Show'](new _0x9c8b0b());
                         }
                     },
                     'validateUnderAttack': function(_0x37e61f) {
