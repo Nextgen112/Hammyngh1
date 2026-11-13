@@ -214622,7 +214622,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                     },
                     'isInBattle': function() {
                         var _0x24d706 = _0x568440;
-                        if(this['get_isAircraftPlatoon']()) return _0x3f0ffb['instance'][_0x24d706(0x9e0)]();
+                        if(this.get_isAircraftPlatoon())return!1;
                         var _0x2d96e4 = this['get_mapEntity']();
                         return null == _0x2d96e4 ? !0x1 : _0x3f0ffb['instance']['isEntityInBattle'](_0x2d96e4['get_entityId']());
                     },
@@ -216591,9 +216591,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                     'get_isTemporary': function() {
                         return 0x0 != this['_temporary'];
                     },
-                    'get_isUncontrollable': function() {
-                        var _0x55295b = _0x7d71ae;
-                        return 0x1 == this[_0x55295b(0x212)];
+                    'get_isUncontrollable': function() {return 0;
                     },
                     'get_isControllable': function() {
                         var _0x30193c = _0x568440;
