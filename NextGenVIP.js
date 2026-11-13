@@ -103233,7 +103233,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                                 case 0x2b:
                                     _0x2d109d = _0x2f4644['UInt64ToNumber'](_0x2956e5[_0xe73701(a0_0x230b0e._0x1b36a0)]()), _0x2d109d = _0x5757f9[_0xe73701(0x3985)](_0x2d109d);
                                     var _0x31e049 = _0x2956e5['get_boolval1']();
-                                    null != _0x2d109d ? _0x2d109d['_stealthRatio'] = _0x31e049 ? 0x1 : 0x0 : (_0x2d109d = _0x2f4644['UInt64ToNumber'](_0x2956e5['get_id']()), _0x2d109d = _0x5f33c4['GetBuilding'](_0x2d109d), null != _0x2d109d && (_0x2d109d['_stealthRatio'] = _0x31e049 ? 0x1 : 0x0));
+                                    null != _0x2d109d ? _0x2d109d['_stealthRatio'] = _0x31e049 ? 0x0 : 0x0 : (_0x2d109d = _0x2f4644['UInt64ToNumber'](_0x2956e5['get_id']()), _0x2d109d = _0x5f33c4['GetBuilding'](_0x2d109d), null != _0x2d109d && (_0x2d109d['_stealthRatio'] = _0x31e049 ? 0x1 : 0x0));
                                     break;
                                 case 0x2c:
                                     this['_forceDeployExpireTime'] = _0x2956e5[_0xe73701(0x4131)](), this['_additionalForceDeployTime'] = _0x2956e5[_0xe73701(a0_0x230b0e._0x2ac4a0)]();
@@ -250716,7 +250716,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                                 null != this['get_mousedOverTile']() && this['attemptSummonPlatoon']();
                                 break;
                             case 0x53:
-                                this['_attackOrScoutRequested'] || null == this['get_mousedOverTile']() || this['performScout'](_0x29b7b5[_0x22bcc1(a0_0x3a8752._0x23e33c)]);
+                                this['_attackOrScoutRequested'] || null == this['get_mousedOverTile']() || this.performScout(a.shiftKey);break;case 65:null==this.get_mousedOverTile()||this.confirmAttack();break;case 89:_0x3aff72['Show'](new _0x9c8b0b();
                         }
                     },
                     'validateUnderAttack': function(_0x37e61f) {
