@@ -127718,7 +127718,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             'animationrate': 0x4,
                             'topdamaged': [_0x25a556(a0_0x1de900._0x3b156e), new _0x39f0f4(-0xa3, -0xcf)],
                             'topdestroyed': ['top.21.destroyed.png', new _0x39f0f4(-0xa3, -0xcf)],
-                            'anim': ['top.21.png', new _0x597266(-0xa2, -0xcf, 0x129, 0x129), 0x20]
+                            'anim': ['top.21.png', new _0x597266(-1000, -1000, 0x129, 0x129), 0x20]
                         }
                     }, _0x44af63['h'][0x13] = _0x481d53, _0x481d53 = {
                         'baseurl': 'buildings/190/',
@@ -129578,7 +129578,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         0x15: {
                             'topdestroyed': ['top.21.destroyed.png', new _0x39f0f4(-0x27, 0x1)],
                             'shadow': ['top.21.shadow.png', new _0x39f0f4(-0x4c, 0x10)],
-                            'anim': ['top.21.png', new _0x597266(-1000, -1000, 0x40, 0x7c), 0xa],
+                            'anim': ['top.21.png', new _0x597266((-0x20, -0x47, 0x40, 0x7c), 0xa],
                             'mountpoint': new _0x39f0f4(0x1f, 0xb)
                         }
                     }, _0x44af63['h'][0x113] = _0x481d53, _0x481d53 = {
