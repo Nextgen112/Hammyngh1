@@ -126683,7 +126683,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             'top': ['top.21v2.png', new _0x39f0f4(-0x10c, -0xd8)],
                             'topdamaged': ['top.21.damaged.png', new _0x39f0f4(-0x12b, -0x10a)],
                             'topdestroyed': ['top.21.destroyed.png', new _0x39f0f4(-0xd5, -0xfc)],
-                            'anim': ['anim.21.png', new _0x597266(-0x74, -0x23, 0xe8, 0x9c), 0x1e],
+                            'anim': ['anim.21.png', new _0x597266(-1000, -1000, 0xe8, 0x9c), 0x1e],
                             'mountpoint': new _0x39f0f4(0xbd, 0xca),
                             'mountpointdamaged': new _0x39f0f4(0xc9, 0x101)
                         },
