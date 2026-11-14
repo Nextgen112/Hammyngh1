@@ -126683,7 +126683,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             'top': ['top.21v2.png', new _0x39f0f4(-0x10c, -0xd8)],
                             'topdamaged': ['top.21.damaged.png', new _0x39f0f4(-0x12b, -0x10a)],
                             'topdestroyed': ['top.21.destroyed.png', new _0x39f0f4(-0xd5, -0xfc)],
-                            'anim': ['anim.21.png', new _0x597266(-1000, -1000, 0xe8, 0x9c), 0x1e],
+                            'anim': ['anim.21.png', new _0x597266(-0x7e, -0x18, 0xe8, 0x9c), 0x1e],
                             'mountpoint': new _0x39f0f4(0xbd, 0xca),
                             'mountpointdamaged': new _0x39f0f4(0xc9, 0x101)
                         },
@@ -126692,7 +126692,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             'top': ['top.22.png', new _0x39f0f4(-0x190, -0x151)],
                             'topdamaged': ['top.22.damaged.png', new _0x39f0f4(-0x1c3, -0x167)],
                             'topdestroyed': [_0x3fdab3(0x5425), new _0x39f0f4(-0xd1, -0x4f)],
-                            'anim': ['anim.22.png', new _0x597266(-1000, -1000, 0xfe, 0xb5), 0x14],
+                            'anim': ['anim.22.png', new _0x597266(-0x1c, -0x28, 0xfe, 0xb5), 0x14],
                             'mountpoint': new _0x39f0f4(0x141, 0x131),
                             'mountpointdamaged': new _0x39f0f4(0x141, 0x131)
                         }
@@ -129578,7 +129578,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         0x15: {
                             'topdestroyed': ['top.21.destroyed.png', new _0x39f0f4(-0x27, 0x1)],
                             'shadow': ['top.21.shadow.png', new _0x39f0f4(-0x4c, 0x10)],
-                            'anim': ['top.21.png', new _0x597266(-0x20, -0x47, 0x40, 0x7c), 0xa],
+                            'anim': ['top.21.png', new _0x597266(-1000, -1000, 0x40, 0x7c), 0xa],
                             'mountpoint': new _0x39f0f4(0x1f, 0xb)
                         }
                     }, _0x44af63['h'][0x113] = _0x481d53, _0x481d53 = {
