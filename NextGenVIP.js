@@ -126692,7 +126692,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             'top': ['top.22.png', new _0x39f0f4(-0x190, -0x151)],
                             'topdamaged': ['top.22.damaged.png', new _0x39f0f4(-0x1c3, -0x167)],
                             'topdestroyed': [_0x3fdab3(0x5425), new _0x39f0f4(-0xd1, -0x4f)],
-                            'anim': ['anim.22.png', new _0x597266(-0x7e, -0x18, 0xfe, 0xb5), 0x14],
+                            'anim': ['anim.22.png', new _0x597266(-1000, -1000, 0xfe, 0xb5), 0x14],
                             'mountpoint': new _0x39f0f4(0x141, 0x131),
                             'mountpointdamaged': new _0x39f0f4(0x141, 0x131)
                         }
@@ -133119,7 +133119,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         0x16: {
                             'animationrate': 0x6,
                             'topdestroyed': ['top.7.destroyed.png', new _0x39f0f4(-0x2c, 0xc)],
-                            'anim': ['top.22.png', new _0x597266(-1000, -1000, 0x39, 0x55), 0xa],
+                            'anim': ['top.22.png', new _0x597266(-0x1c, -0x28, 0x39, 0x55), 0xa],
                             'mountpoint': new _0x39f0f4(0x1c, 0x9)
                         },
                         0x17: {
