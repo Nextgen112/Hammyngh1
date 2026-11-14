@@ -127718,7 +127718,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             'animationrate': 0x4,
                             'topdamaged': [_0x25a556(a0_0x1de900._0x3b156e), new _0x39f0f4(-0xa3, -0xcf)],
                             'topdestroyed': ['top.21.destroyed.png', new _0x39f0f4(-0xa3, -0xcf)],
-                            'anim': ['top.21.png', new _0x597266(-1000, -1000, 0x129, 0x129), 0x20]
+                            'anim': ['top.21.png', new _0x597266(-0xa2, -0xcf, 0x129, 0x129), 0x20]
                         }
                     }, _0x44af63['h'][0x13] = _0x481d53, _0x481d53 = {
                         'baseurl': 'buildings/190/',
@@ -215738,7 +215738,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         var _0x53a8c7 = _0x568440,
                             _0x198f85 = _0x568440,
                             _0xbfce97 = this['_stealthRatio'];
-                        if(this['get_mine']() || _0x5e2a67['IsAdvanceScouting']()) _0xbfce97 *= 0.6;
+                        if(this['get_mine']() || _0x5e2a67.IsSyncBattleDefender() || _0x5e2a67.IsBattle() || _0x5e2a67.IsPlatoon() || _0x5e2a67.IsScouting()|| _0x5e2a67['IsAdvanceScouting']()) _0xbfce97 *= 0.6;
                         0x0 < this[_0x53a8c7(a0_0x483adf._0x9e13f4)] ? (--this[_0x53a8c7(0x7948)], this['SetFade']((0x1 - this['_fadeIn'] / 0x3c) * (0x1 - _0xbfce97)), this['_fadeIn'] <= _0x2d76f5['FADE_IN_SELECTION_FRAMES'] && this['get_selected']() && 0x0 == this['_spriteSelected']['get_visible']() && (this[_0x198f85(a0_0x483adf._0x1935db)]['set_visible'](!0x0), this['get_isAirFunctionally']() && this['_spriteSelectedAirLine']['set_visible'](!0x0))) : this['SetFade'](0x1 - _0xbfce97);
                     },
                     'TickDroneLanding': function() {
