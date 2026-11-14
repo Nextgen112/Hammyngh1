@@ -198283,7 +198283,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                             _0x11e470 = _0x568440,
                             _0x32a99f = this['getTechItemFromId'](_0x24baf2);
                         if(null != _0x32a99f) {
-                            if(this[_0x209a7d(a0_0x46f368._0x27fdc8)](return true)) {
+                            if(this[_0x209a7d(a0_0x46f368._0x27fdc8)](_0x24baf2)) {
                                 var _0x5f0f27 = _0x32a99f['get_researchCosts']();
                                 _0x32a99f = _0x32a99f['get_researchSkuCosts'](), _0x26c10d['Purchase'](_0x456723[_0x11e470(a0_0x46f368._0x2290ad)](_0x24baf2, _0x5f0f27, _0x32a99f));
                             } else _0x3aff72[_0x209a7d(a0_0x46f368._0xeb2a1c)](new _0x34a805(_0x8d0ccb[_0x11e470(0x227d)]('common_uppercase__error'), _0x8d0ccb['getString'](_0x11e470(a0_0x46f368._0x5993e7))));
