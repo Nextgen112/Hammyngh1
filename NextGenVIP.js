@@ -129578,7 +129578,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         0x15: {
                             'topdestroyed': ['top.21.destroyed.png', new _0x39f0f4(-0x27, 0x1)],
                             'shadow': ['top.21.shadow.png', new _0x39f0f4(-0x4c, 0x10)],
-                            'anim': ['top.21.png', new _0x597266((-0x20, -0x47, 0x40, 0x7c), 0xa],
+                            'anim': ['top.21.png', new _0x597266(-0x20, -0x47, 0x40, 0x7c), 0xa],
                             'mountpoint': new _0x39f0f4(0x1f, 0xb)
                         }
                     }, _0x44af63['h'][0x113] = _0x481d53, _0x481d53 = {
