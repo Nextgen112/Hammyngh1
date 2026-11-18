@@ -189703,7 +189703,6 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                         _0x44a603 = _0x568440;
                     _0x3890ac[_0x3ddf53(0xf0f)](), _0x3890ac['_relocatedToFriend'] = !0x1, _0x2a4c10['get_controller']()['moveToSectorLocation'](_0x3890ac[_0x3ddf53(a0_0x2ccee2._0x264318)], _0x3890ac['_relocateToLocation']);
                 }, _0x3890ac['BeginRelocate'] = function() {
-                    _0x1426a1['Show'](_0x8d0ccb['getString']('relocatebase__relocating_base'));
                 }, _0x3890ac[_0x568440(0x4459)] = function(_0x15362f) {
                     var _0x31e782 = _0x568440,
                         _0x23f260 = _0x568440;
@@ -189715,7 +189714,7 @@ $jscomp['scope'] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp['ASSUME_NO_NATIVE_M
                 }, _0x3890ac['onAnimHalfway'] = function() {
                     var _0x533a1f = _0x7d71ae;
                     _0x3890ac['_animHalfway'] = !0x0;
-                    if(0x0 == _0x2a4c10['get_hasFinishedLoading']()) _0x1426a1['Show'](_0x8d0ccb[_0x533a1f(a0_0x5d3dec._0x10c7ee)]('relocatebase__relocating'));
+                    if(0x0 == _0x2a4c10['get_hasFinishedLoading']());
                     else _0x3890ac['onMapLoaded']();
                 }, _0x3890ac[_0x7d71ae(0x2436)] = function() {
                     var _0x54fe64 = _0x568440,
