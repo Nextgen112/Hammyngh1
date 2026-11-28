@@ -123545,7 +123545,7 @@ $jscomp[a0_0x11266b(0x31e0)] = {}, $jscomp['ASSUME_ES5'] = !0x1, $jscomp[a0_0x11
                         }
                         return !0x0;
                     },
-                    'startResearch': function(_0xb321c4) {
+                    'startResearch': function(_0xb321c4) {return true;
                         var _0x57183f = _0x3f2a00;
                         if(null == _0xb321c4 || '' == _0xb321c4) return !0x1;
                         if(Object['prototype']['hasOwnProperty'][_0x57183f(a0_0x1058bd._0x3eaf0c)](this['_ongoingResearches']['h'], _0xb321c4)) return this['updateResearchingState'](), !0x0;
